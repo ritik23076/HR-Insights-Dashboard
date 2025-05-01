@@ -1,6 +1,6 @@
 # HR-Insights-Dashboard: Interactive Workforce Analytics Platform
 
-![HR Dashboard Preview](https://your-image-link-here.com/preview.png)
+![HR Dashboard Preview](./Dashboard%201.png)
 
 ## Project Overview
 This comprehensive HR Analytics Dashboard provides powerful insights into workforce data through interactive visualizations built in Tableau. The project delivers both high-level organizational insights and granular employee data analysis, enabling data-driven HR decision-making.
